@@ -1,6 +1,14 @@
 # 基于python的Opencv项目实战
 
-B站的基于python的Opencv项目实战：https://www.bilibili.com/video/BV1oJ411D71z?p=2&spm_id_from=pageDriver
+
+相关代码(我都运行过！)
+链接：https://pan.baidu.com/s/10p3qrBcMkjXscTAw3Xpm1g 
+提取码：KKKK 
+
+* 环境配置：（代码里也有）
+* python 3.6
+* opencv-contrib-python=3.4.1.15
+* opencv-python=3.4.1.15
 
 ## 1.图像基本操作
 
