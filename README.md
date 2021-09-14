@@ -4,6 +4,8 @@
 相关代码(我都运行过！)
 链接：https://pan.baidu.com/s/10p3qrBcMkjXscTAw3Xpm1g 
 提取码：KKKK 
+听说失效了：再来一个：
+链接: https://pan.baidu.com/s/1wi9MrBvAhGxyAj1i0NAukQ 提取码: tj2h 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 * 环境配置：（代码里也有）
 * python 3.6
